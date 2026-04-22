@@ -228,7 +228,7 @@ Model-driven prioritization consistently outperforms FIFO across all three metri
 
 ```bash
 # 1. Clone and install
-git clone <repo-url>
+git clone <https://github.com/YOUR_USERNAME/ar-collections-engine.git>
 cd ar-collections-engine
 pip install -r requirements.txt
 
