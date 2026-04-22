@@ -1,0 +1,13 @@
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+lightgbm>=3.3
+optuna>=3.0
+lifelines>=0.27
+shap>=0.41
+streamlit>=1.25
+plotly>=5.14
+joblib>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+pyarrow>=12.0
